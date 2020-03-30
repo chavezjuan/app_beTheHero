@@ -1,7 +1,7 @@
 # Aplicativo beTheHero
 
-<img src="./frontend/src/assets/logo.svg" width="200px" height="200px" />
-Aplicativo construído em NodeJs, React e React Native para desktop e mobile (Android e IOS), no qual permite conectar voluntários a ONGs. 
+<img src="./frontend/src/assets/logo.svg" width="200px" height="200px"/>
+<p>Aplicativo construído em NodeJs, React e React Native para desktop e mobile (Android e IOS), no qual permite conectar voluntários a ONGs.</p> 
 Possui a versão web e mobile.
 
 Esse projeto é o resultado da semana Omnistack 11 ministrado pela Rocketseat.
